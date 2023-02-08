@@ -1,3 +1,5 @@
+# Zero Knowledge Proofs Learning Resources
+
 ## Getting started with Zk
 - [Introduction to Zero-Knowledge Proofs](https://www.youtube.com/watch?v=_6Bm5kmov3A)
 - [Zero-Knowledge: A-Z](https://graph.org/ZK-SNARKs-VS-ZK-STARKs-01-10)
