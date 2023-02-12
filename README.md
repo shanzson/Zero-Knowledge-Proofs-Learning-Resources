@@ -19,6 +19,6 @@
 ## Zk docs ad resources
 - [Circom docs](https://docs.circom.io/)
 - [Snarkjs github](https://github.com/iden3/snarkjs)
-
+- [Battlezip's explaination of circom, snarkjs and circomlib](https://battlezips.gitbook.io/battlezips/development/circom-language/signals-and-variables)
 
 
