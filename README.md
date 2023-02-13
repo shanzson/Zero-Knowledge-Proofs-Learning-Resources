@@ -16,9 +16,9 @@
 - [Dark Forest: Challenges and Constraints in ZK Gaming](https://www.youtube.com/watch?v=ZUkEucDp5J0)
 - [How to Play BattleZips on Mumbai](https://www.youtube.com/watch?v=FBux07B76SQ)
 
-## Zk docs ad resources
+## Zk docs and additional resources
 - [Circom docs](https://docs.circom.io/)
 - [Snarkjs github](https://github.com/iden3/snarkjs)
 - [Battlezip's explaination of circom, snarkjs and circomlib](https://battlezips.gitbook.io/battlezips/development/circom-language/signals-and-variables)
-
+- [Some ways to use ZK-SNARKs for privacy - by Vitalik](https://vitalik.ca/general/2022/06/15/using_snarks.html)
 
