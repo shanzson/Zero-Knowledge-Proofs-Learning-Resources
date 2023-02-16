@@ -7,7 +7,7 @@
 
 ## Zk Workshops
 - [Zero Knowledge Proof (ZKP) Basics & dApp](https://www.youtube.com/watch?v=4wvwQ1RZcBw)
-- [ZKP and Dapp workshop by CryptoNaukri (in Hindi language)](https://www.youtube.com/watch?v=1tw2wB5i9z8)
+- [ZKP and Dapp workshop by CryptoNaukri](https://www.youtube.com/watch?v=1tw2wB5i9z8)
 - [ZK Hack- Introducing circom 2.0](https://www.youtube.com/watch?v=6XxVeBFmIFs)
 
 ## Zk Game resources
