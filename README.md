@@ -5,6 +5,7 @@
 - [Zero-Knowledge: A-Z](https://graph.org/ZK-SNARKs-VS-ZK-STARKs-01-10)
 - [Zk Hack learning platform](https://zkhack.dev/)
 - [How to create a Zk smart contract](https://betterprogramming.pub/how-to-create-a-zk-smart-contract-cd948a673749)
+- [Zk Playground examples](https://github.com/alexroan/zk-playground)
 
 ## Zk Workshops
 - [Zero Knowledge Proof (ZKP) Basics & dApp](https://www.youtube.com/watch?v=4wvwQ1RZcBw)
