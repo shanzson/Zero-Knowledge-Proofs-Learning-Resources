@@ -16,6 +16,7 @@
 
 ## Zk Game resources
 - [BattleZips Game using circom and snarkJS](https://www.youtube.com/watch?v=CgtNEALhJ3s)
+- [BattleZips Game using Noir](https://youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik)
 - [Dark Forest: Lessons from 3 Years of On-Chain Gaming](https://www.youtube.com/watch?v=z7V830zndoA)
 - [Dark Forest: Challenges and Constraints in ZK Gaming](https://www.youtube.com/watch?v=ZUkEucDp5J0)
 - [How to Play BattleZips on Mumbai](https://www.youtube.com/watch?v=FBux07B76SQ)
