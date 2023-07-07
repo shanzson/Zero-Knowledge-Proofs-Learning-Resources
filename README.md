@@ -7,7 +7,6 @@
 - [How to create a Zk smart contract](https://betterprogramming.pub/how-to-create-a-zk-smart-contract-cd948a673749)
 - [Zk Playground examples](https://github.com/alexroan/zk-playground)
 - [Noir language by Aztec Labs](https://medium.com/aztec-protocol/introducing-noir-the-universal-language-of-zero-knowledge-ff43f38d86d9)
-- [Noir docs](https://docs.aztec.network/noir)
 
 ## Zk Workshops
 - [Zero Knowledge Proof (ZKP) Basics & dApp](https://www.youtube.com/watch?v=4wvwQ1RZcBw)
@@ -23,6 +22,7 @@
 
 ## Zk docs and additional resources
 - [Circom docs](https://docs.circom.io/)
+- [Noir docs](https://docs.aztec.network/noir)
 - [Snarkjs github](https://github.com/iden3/snarkjs)
 - [Battlezip's explaination of circom, snarkjs and circomlib](https://battlezips.gitbook.io/battlezips/development/circom-language/signals-and-variables)
 - [Some ways to use ZK-SNARKs for privacy - by Vitalik](https://vitalik.ca/general/2022/06/15/using_snarks.html)
