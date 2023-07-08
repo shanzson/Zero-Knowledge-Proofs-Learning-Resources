@@ -25,5 +25,7 @@
 - [Noir docs](https://docs.aztec.network/noir)
 - [Snarkjs github](https://github.com/iden3/snarkjs)
 - [Battlezip's explaination of circom, snarkjs and circomlib](https://battlezips.gitbook.io/battlezips/development/circom-language/signals-and-variables)
+- [Circomkit- package with simple interface & testing utilities](https://github.com/erhant/circomkit#readme)
 - [Some ways to use ZK-SNARKs for privacy - by Vitalik](https://vitalik.ca/general/2022/06/15/using_snarks.html)
+  
 
