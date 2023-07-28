@@ -28,5 +28,7 @@
 - [Battlezip's explaination of circom, snarkjs and circomlib](https://battlezips.gitbook.io/battlezips/development/circom-language/signals-and-variables)
 - [Circomkit- package with simple interface & testing utilities](https://github.com/erhant/circomkit#readme)
 - [Some ways to use ZK-SNARKs for privacy - by Vitalik](https://vitalik.ca/general/2022/06/15/using_snarks.html)
-  
+
+## ZK security
+- [Intro to Zkp security](https://www.youtube.com/watch?v=8wsR7o0rOxU&feature=youtu.be)
 
