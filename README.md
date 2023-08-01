@@ -8,6 +8,8 @@
 - [Zk Playground examples](https://github.com/alexroan/zk-playground)
 - [Noir language by Aztec Labs](https://medium.com/aztec-protocol/introducing-noir-the-universal-language-of-zero-knowledge-ff43f38d86d9)
 - [Hiccup's ZK Journey with Resources](https://sunrise-clerk-234.notion.site/Hickup-s-ZK-Journey-affa9ce9cdf44a33b3549c37f908521a)
+- [Zk clearly explained with architecture](
+https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
 
 ## Zk Workshops
 - [Zero Knowledge Proof (ZKP) Basics & dApp](https://www.youtube.com/watch?v=4wvwQ1RZcBw)
