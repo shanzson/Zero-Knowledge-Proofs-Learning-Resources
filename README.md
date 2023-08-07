@@ -16,6 +16,10 @@ https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
 - [ZKP and Dapp workshop by CryptoNaukri](https://www.youtube.com/watch?v=1tw2wB5i9z8)
 - [ZK Hack- Introducing circom 2.0](https://www.youtube.com/watch?v=6XxVeBFmIFs)
 
+## Zk Cohorts
+- [Zk auditing cohort open sourced](https://yacademy.dev/fellowships/zBlock1/)
+- [Zk Camp's Aztec/Noir Cohort](https://www.zkcamp.xyz/aztec)
+
 ## Zk Game resources
 - [BattleZips Game using circom and snarkJS](https://www.youtube.com/watch?v=CgtNEALhJ3s)
 - [BattleZips Game using Noir](https://youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik)
