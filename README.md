@@ -38,6 +38,5 @@ https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
 ## ZK security
 - [Intro to Zkp security](https://www.youtube.com/watch?v=8wsR7o0rOxU&feature=youtu.be)
 - [Common ZK vulnerabilities](https://youtu.be/1RQSwj8h8rM)
-- [Zk auditing cohort open sourced](https://yacademy.dev/fellowships/zBlock1/)
-- [Zk Camp's Aztec/Noir Cohort](https://www.zkcamp.xyz/aztec)
+
 
