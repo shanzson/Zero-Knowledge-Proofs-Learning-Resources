@@ -33,6 +33,7 @@ https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
 - [Snarkjs github](https://github.com/iden3/snarkjs)
 - [Battlezip's explaination of circom, snarkjs and circomlib](https://battlezips.gitbook.io/battlezips/development/circom-language/signals-and-variables)
 - [Circomkit- package with simple interface & testing utilities](https://github.com/erhant/circomkit#readme)
+- [Awesome Noir](https://github.com/noir-lang/awesome-noir)
 - [Some ways to use ZK-SNARKs for privacy - by Vitalik](https://vitalik.ca/general/2022/06/15/using_snarks.html)
 
 ## ZK security
