@@ -11,11 +11,12 @@
 - [Zk clearly explained with architecture](
 https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
 
-## Zk Workshops
+## Zk Workshops & MOOCs
 - [Zero Knowledge Proof (ZKP) Basics & dApp](https://www.youtube.com/watch?v=4wvwQ1RZcBw)
 - [ZKP and Dapp workshop by CryptoNaukri](https://www.youtube.com/watch?v=1tw2wB5i9z8)
 - [ZK Hack- Introducing circom 2.0](https://www.youtube.com/watch?v=6XxVeBFmIFs)
-
+- [ZK MOOCs](https://www.youtube.com/watch?v=uchjTIlPzFo&list=PLS01nW3Rtgor_yJmQsGBZAg5XM4TSGpPs)
+  
 ## Zk Cohorts
 - [Zk auditing cohort open sourced](https://yacademy.dev/fellowships/zBlock1/)
 - [Zk Camp's Aztec/Noir Cohort](https://www.zkcamp.xyz/aztec)
