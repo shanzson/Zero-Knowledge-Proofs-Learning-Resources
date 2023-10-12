@@ -16,6 +16,7 @@ https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
 - [ZKP and Dapp workshop by CryptoNaukri](https://www.youtube.com/watch?v=1tw2wB5i9z8)
 - [ZK Hack- Introducing circom 2.0](https://www.youtube.com/watch?v=6XxVeBFmIFs)
 - [ZK MOOCs](https://www.youtube.com/watch?v=uchjTIlPzFo&list=PLS01nW3Rtgor_yJmQsGBZAg5XM4TSGpPs)
+- [Solidity dev to ZK dev workshop](https://youtu.be/wyBNZzLEgkA?si=pRm9_gQmh1z-TSS5)
   
 ## Zk Cohorts
 - [Zk auditing cohort open sourced](https://yacademy.dev/fellowships/zBlock1/)
