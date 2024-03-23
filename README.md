@@ -40,6 +40,7 @@ https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
 - [Noir code examples](https://github.com/AztecProtocol/aztec-packages/tree/master/yarn-project/noir-contracts/src/contracts)
 - [Some ways to use ZK-SNARKs for privacy - by Vitalik](https://vitalik.ca/general/2022/06/15/using_snarks.html)
 - [Circom tutorial by Rareskills](https://www.rareskills.io/post/circom-tutorial)
+- [Succint Labs ZK Docs](https://succinctlabs.github.io/sp1/)
 
 
 ## ZK security
