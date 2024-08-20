@@ -11,14 +11,17 @@
 - [Zk clearly explained with architecture](
 https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
 
-## Zk Workshops & MOOCs
+## Zk Workshops & MOOC Videos
 - [Zero Knowledge Proof (ZKP) Basics & dApp](https://www.youtube.com/watch?v=4wvwQ1RZcBw)
 - [ZKP and Dapp workshop by CryptoNaukri](https://www.youtube.com/watch?v=1tw2wB5i9z8)
 - [ZK Hack- Introducing circom 2.0](https://www.youtube.com/watch?v=6XxVeBFmIFs)
 - [ZK MOOCs](https://www.youtube.com/watch?v=uchjTIlPzFo&list=PLS01nW3Rtgor_yJmQsGBZAg5XM4TSGpPs)
 - [Solidity dev to ZK dev workshop](https://youtu.be/wyBNZzLEgkA?si=pRm9_gQmh1z-TSS5)
+- [Lamdaworks Sparkling Water Bootcamp Playlist](https://www.youtube.com/playlist?list=PLFX2cij7c2Pwm2XHBijKZ6Eh97BOqtGBh)
+- [All the math you need to understand SNARKS & STARKS](https://www.youtube.com/playlist?list=PLFX2cij7c2PynTNWDBzmzaD6ij170ILbQ)
   
-## Zk Cohorts
+## Zk Cohorts & Bootcamps
+- [Lambdaworks' Sparkling Water Bootcamp (covers Zk math, STARKS, SNARKS, etc.) ](https://github.com/lambdaclass/lambdaworks/tree/main/bootcamp)
 - [Zk auditing cohort open sourced](https://yacademy.dev/fellowships/zBlock1/)
 - [Zk Camp's Aztec/Noir Cohort](https://www.zkcamp.xyz/aztec)
 - [Zk learning with 0xparc (including Halo)](https://learn.0xparc.org/)
@@ -41,6 +44,7 @@ https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
 - [Some ways to use ZK-SNARKs for privacy - by Vitalik](https://vitalik.ca/general/2022/06/15/using_snarks.html)
 - [Circom tutorial by Rareskills](https://www.rareskills.io/post/circom-tutorial)
 - [Succint Labs ZK Docs](https://succinctlabs.github.io/sp1/)
+- [LambdaWorks ZK Libraries](https://github.com/lambdaclass/lambdaworks)
 
 
 ## ZK security
