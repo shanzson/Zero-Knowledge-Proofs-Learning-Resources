@@ -24,7 +24,9 @@ https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
 - [Lambdaworks' Sparkling Water Bootcamp (covers Zk math, STARKS, SNARKS, etc.) ](https://github.com/lambdaclass/lambdaworks/tree/main/bootcamp)
 - [Zk auditing cohort open sourced](https://yacademy.dev/fellowships/zBlock1/)
 - [Zk Camp's Aztec/Noir Cohort](https://www.zkcamp.xyz/aztec)
+- [Zk Camp's Aleo Cohort](https://www.zkcamp.xyz/aleo)
 - [Zk learning with 0xparc (including Halo)](https://learn.0xparc.org/)
+- 
 
 ## Zk Game resources
 - [BattleZips Game using circom and snarkJS](https://www.youtube.com/watch?v=CgtNEALhJ3s)
