@@ -10,6 +10,7 @@
 - [Hiccup's ZK Journey with Resources](https://sunrise-clerk-234.notion.site/Hickup-s-ZK-Journey-affa9ce9cdf44a33b3549c37f908521a)
 - [Zk clearly explained with architecture](
 https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
+- [Awesome ZK Repo!](https://github.com/ventali/awesome-zk)
 
 ## Zk Workshops & MOOC Videos
 - [Zero Knowledge Proof (ZKP) Basics & dApp](https://www.youtube.com/watch?v=4wvwQ1RZcBw)
