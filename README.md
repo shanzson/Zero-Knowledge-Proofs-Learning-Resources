@@ -56,6 +56,6 @@ https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
 ## Zk Games!!!
 - [Dark Forest](https://zkga.me/)
 - [AI Apocalypto (WIP)](https://www.aiapocalypto.com/)
-- [Rankify It (Uses Encrption currently but good example for developing ZK based voting systems)](https://www.rankify.it/)
+- [Rankify It (Uses MPC/TSS currently but good example for developing ZK based voting systems)](https://www.rankify.it/)
 
 
