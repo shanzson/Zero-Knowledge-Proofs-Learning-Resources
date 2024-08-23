@@ -48,10 +48,14 @@ https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
 - [Succint Labs ZK Docs](https://succinctlabs.github.io/sp1/)
 - [LambdaWorks ZK Libraries](https://github.com/lambdaclass/lambdaworks)
 
-
 ## ZK security
 - [Intro to Zkp security](https://www.youtube.com/watch?v=8wsR7o0rOxU&feature=youtu.be)
 - [Common ZK vulnerabilities](https://youtu.be/1RQSwj8h8rM)
 - [Trail of Bits' Zk Docs](https://github.com/trailofbits/zkdocs)
+
+## Zk Games!!!
+- [Dark Forest](https://zkga.me/)
+- [AI Apocalypto (WIP)](https://www.aiapocalypto.com/)
+- [Rankify It (Uses Encrption currently but good example for developing ZK based voting systems)](https://www.rankify.it/)
 
 
